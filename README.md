@@ -74,6 +74,7 @@ A simple expenses tracking application built with VueJs and .NET
 <img src="/assets/images/Profile.png" alt="Vue Expenses Profile" width="100%" />
 
 ### Mobile View
+
 - [Dashboard](/assets/images/mobile/dashboard.png)
 - [Stats](/assets/images/mobile/Stats.png)
 
@@ -116,12 +117,15 @@ A simple expenses tracking application built with VueJs and .NET
 ### Client
 
 - `VUE_APP_BASE_URL`: `http://localhost:5000/`
+
   - Base url to connect to the API, this can be changed in the `.env` file
 
 - `productionSourceMap`: `false`
+
   - Generates source map file when building for production, this can be changed in `vue.config.js` file
 
 - `outputDir`: commented out by default
+
   - Where the built files will be copied over, this can be changed in `vue.config.js` file
 
 - `assetsDir`: commented out by default
@@ -129,15 +133,15 @@ A simple expenses tracking application built with VueJs and .NET
 
 # Future Enhancements
 
-- Check project [To do list](https://github.com/simplyvinay/vue-expenses/projects/1)
+- Check project [To do list](https://github.com/chintan0513/Expense-Tracker-App)
 
 # How to Contribute
 
-1. Clone repo `git clone https://github.com/simplyvinay/vue-expenses.git`
+1. Clone repo `git clone https://github.com/chintan0513/Expense-Tracker-App`
 2. Create a new branch: `git checkout -b new_branch_name`
 3. Make changes and test
 4. Submit Pull Request with description of changes
 
 ## License
 
-[MIT](https://github.com/simplyvinay/vue-expenses/blob/master/LICENSE)
+[MIT](https://github.com/chintan0513/Expense-Tracker-App/blob/master/LICENSE)
